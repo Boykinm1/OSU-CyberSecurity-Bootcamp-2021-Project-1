@@ -10,7 +10,8 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  - Config File: [filebeat-config.yml](https://github.com/Boykinm1/OSU-CyberSecurity-Bootcamp-2021-Project-1/blob/1918115afa4e7586db16c087dff739966d013250/Ansible/Files/filebeat-config.yml)
+  - Playbook: [filebeat-playbook.yml](https://github.com/Boykinm1/OSU-CyberSecurity-Bootcamp-2021-Project-1/blob/1918115afa4e7586db16c087dff739966d013250/Ansible/Playbooks/filebeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topology

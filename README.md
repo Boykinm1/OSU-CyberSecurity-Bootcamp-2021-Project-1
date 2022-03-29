@@ -6,7 +6,7 @@ Matthew Boykin
 
 The files in this repository were used to configure the network depicted below.
 
-[Network Diagram](Boykinm1/OSU-CyberSecurity-Bootcamp-2021-Project-1/Project 1 Diagram.drawio.png)
+[Network Diagram](https://github.com/Boykinm1/OSU-CyberSecurity-Bootcamp-2021-Project-1/blob/563021ed3269494b0ee618ce077d58e8133438c6/Project%201%20Diagram.drawio.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 
